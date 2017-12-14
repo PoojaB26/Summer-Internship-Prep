@@ -12,3 +12,16 @@
 |Priority Queue|Dijkstra's Algorithm|TCP Handshake |IPC|
 |Trie|Prim's Algorithm|| Inode
 |Suffix Tree| Divide & Conqure and DP| | |
+
+
+## Specific Position Interview Topics
+| Frontend Devs | Backend Stuff|Android Devs| 
+|-------------|--------------|------------|
+| HTML5| HTML|Java|
+| CSS3|CSS| Android Versions and changes|
+|JavaScript| Server configs| Working with Android Studio | 
+|JQuery| Working with APIs| Android UI and UX| 
+|Saas|Chrome Dev Tools| Best Practices | 
+|React|Python, PHP or Ruby|
+|Angular|
+|Chrome Dev Tools|
