@@ -25,3 +25,9 @@
 |React|Python, PHP or Ruby|
 |Angular|
 |Chrome Dev Tools|
+
+## Technical Interview Resources/Links 
+#### Video
+* [Google shares Technical Interview Tips](https://www.youtube.com/watch?v=qc1owf2-220&autoplay=1)
+#### Articles
+* Bla
