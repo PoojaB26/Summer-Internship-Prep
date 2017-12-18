@@ -31,4 +31,4 @@
 * [Google shares Technical Interview Tips](https://www.youtube.com/watch?v=qc1owf2-220&autoplay=1)
 #### Articles
 * [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
-* [Tech Interview DOJO](https://skillenza.com/communities/tech-interview-dojo)
+* [Tech Interview DOJO on Skillenza](https://skillenza.com/communities/tech-interview-dojo)
