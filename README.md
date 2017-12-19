@@ -26,6 +26,11 @@
 |Angular|
 |Chrome Dev Tools|
 
+## Links to Algorithm Study
+| Topic | Links |
+|----------------|------------|
+|Dijkstra's Algorithm     | [Coding Ninja Explanation](https://www.youtube.com/watch?v=7GoDDj3onfI&index=7&list=PLrk5tgtnMN6QkNhdIiClZIhxJGwzCEVv9)| 
+
 ## Technical Interview Resources/Links 
 #### Video
 * [Google shares Technical Interview Tips](https://www.youtube.com/watch?v=qc1owf2-220&autoplay=1)
