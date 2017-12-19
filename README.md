@@ -31,9 +31,14 @@
 |----------------|------------|
 |Dijkstra's Algorithm     | [Coding Ninja Explanation](https://www.youtube.com/watch?v=7GoDDj3onfI&index=7&list=PLrk5tgtnMN6QkNhdIiClZIhxJGwzCEVv9)| 
 
+
 ## Technical Interview Resources/Links 
 #### Video
 * [Google shares Technical Interview Tips](https://www.youtube.com/watch?v=qc1owf2-220&autoplay=1)
 #### Articles
 * [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
 * [Tech Interview DOJO on Skillenza](https://skillenza.com/communities/tech-interview-dojo)
+
+
+## Competitive Coding Tips
+* [Avoid TLE Errors](https://www.youtube.com/watch?v=2frmG3Z_PRo)
