@@ -35,6 +35,7 @@
 ## Technical Interview Resources/Links 
 #### Video
 * [Google shares Technical Interview Tips](https://www.youtube.com/watch?v=qc1owf2-220&autoplay=1)
+* [White Board Ssolving Technical Questions](https://www.youtube.com/watch?v=XKu_SEDAykw)
 #### Articles
 * [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
 * [Tech Interview DOJO on Skillenza](https://skillenza.com/communities/tech-interview-dojo)
