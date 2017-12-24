@@ -29,7 +29,12 @@
 ## Links to Algorithm Study
 | Topic | Links |
 |----------------|------------|
+|Cracking the Coding Interview|[PDF Link](https://www.dropbox.com/s/sqfrohhoogrs3nk/cracking-the-coding-interview.pdf?dl=0)|
+| Cracking the Tech Career | [PDF Link](https://www.dropbox.com/s/72eg4nozynsno2o/Cracking%20the%20Tech%20Career.pdf?dl=0) |
+| Computer Science Distilled | [PDF Link](https://www.dropbox.com/s/k5aqfxgnvacmrkb/Computer%20Science%20Distilled.pdf?dl=0) |
+
 |Dijkstra's Algorithm     | [Coding Ninja Explanation](https://www.youtube.com/watch?v=7GoDDj3onfI&index=7&list=PLrk5tgtnMN6QkNhdIiClZIhxJGwzCEVv9)| 
+
 
 
 ## Technical Interview Resources/Links 
