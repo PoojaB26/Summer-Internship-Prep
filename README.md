@@ -33,14 +33,14 @@
 | Cracking the Tech Career | [PDF Link](https://www.dropbox.com/s/72eg4nozynsno2o/Cracking%20the%20Tech%20Career.pdf?dl=0) |
 | Computer Science Distilled | [PDF Link](https://www.dropbox.com/s/k5aqfxgnvacmrkb/Computer%20Science%20Distilled.pdf?dl=0) |
 |Dijkstra's Algorithm     | [Coding Ninja Explanation](https://www.youtube.com/watch?v=7GoDDj3onfI&index=7&list=PLrk5tgtnMN6QkNhdIiClZIhxJGwzCEVv9)| 
-| Regex Examples | [Blog Post](http://www.mkyong.com/regular-expressions/10-java-regular-expression-examples-you-should-know/) |
+| 10 Java Regular Expression Examples | [Blog Post](http://www.mkyong.com/regular-expressions/10-java-regular-expression-examples-you-should-know/) |
 
 
 
 ## Technical Interview Resources/Links 
 #### Video
 * [Google shares Technical Interview Tips](https://www.youtube.com/watch?v=qc1owf2-220&autoplay=1)
-* [White Board Ssolving Technical Questions](https://www.youtube.com/watch?v=XKu_SEDAykw)
+* [White Board Solving Technical Questions](https://www.youtube.com/watch?v=XKu_SEDAykw)
 #### Articles
 * [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
 * [Tech Interview DOJO on Skillenza](https://skillenza.com/communities/tech-interview-dojo)
