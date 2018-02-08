@@ -30,5 +30,5 @@ var m = new Map(arr)
 * The text inside elements forms text nodes, labelled as #text. 
 \\**A text node** contains only a string. It may not have children and **is always a leaf of the tree**.
 
-*Everything in HTML, even comments, becomes a part of DOM.
+* Everything in HTML, even comments, becomes a part of DOM.
 
