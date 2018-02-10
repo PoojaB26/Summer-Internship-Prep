@@ -37,8 +37,8 @@ var m = new Map(arr)
 * Split and join functions
   ```
   var myData = 'Manchester,London,Liverpool,Birmingham,Leeds,Carlisle';
-var myArray = myData.split(',');
+  var myArray = myData.split(',');
   var newString = myArray.join(',');
 
-```
+  ```
 
