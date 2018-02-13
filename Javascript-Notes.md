@@ -45,3 +45,16 @@ var m = new Map(arr)
 
 * Javascript has an interesting inheritance model, which happens to be completely different from most OOP languages. While it is object-oriented, an object doesn't have a type or a class that it gets its methods from, it has a prototype. The prototype of an object is a way to store common attributes across all instances of a class, but in a way that is overwritable. If an object doesn't have a reference to an attribute, that object's prototype will be checked for the attribute. https://community.risingstack.com/javascript-prototype-chain-inheritance/
 * *this* is used inside a function, and will always refer to a single object — the object that invokes (calls) the function where “this” is used.
+* in an IIFE like this:
+```
+var foo = "Hello";
+(function() {
+  var bar = " World";
+  alert(foo + bar);
+})();
+alert(foo + bar);
+```
+bar is declared inside an IIFE so its scope remains inside it, and cannot be outside the function. So second alert throughs a reference error.
+
+* The z-index property specifies the stack order of an element. An element with greater stack order is always in front of an element with a lower stack order. Note: z-index only works on positioned elements (position:absolute, position:relative, or position:fixed).
+
