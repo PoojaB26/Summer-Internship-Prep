@@ -57,4 +57,5 @@ alert(foo + bar);
 bar is declared inside an IIFE so its scope remains inside it, and cannot be outside the function. So second alert throughs a reference error.
 
 * The z-index property specifies the stack order of an element. An element with greater stack order is always in front of an element with a lower stack order. Note: z-index only works on positioned elements (position:absolute, position:relative, or position:fixed).
-
+*  If you need the result, but do not wish to mutate the original array, .map() is the clear choice. If you simply need to iterate over an array, forEach is a fine choice.
+* With Ajax, web applications can send data to and retrieve from a server asynchronously (in the background) without interfering with the display and behavior of the existing page
