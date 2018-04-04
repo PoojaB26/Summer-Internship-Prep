@@ -36,6 +36,7 @@
 | 10 Java Regular Expression Examples | [Blog Post](http://www.mkyong.com/regular-expressions/10-java-regular-expression-examples-you-should-know/) |
 | Interview study level wise on InterviewBit | [Interview Bit](https://www.interviewbit.com/courses/programming/) |
 | CS Concepts Brushup in 7 days | [Hiredintech.com](http://old.hiredintech.com/the-master-program) |
+| Break Into Tech Job & Interview | [Article](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/) |
 
 
 
